@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/songgoeun/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/songgoeun/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/songgoeun/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/songgoeun/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2465-shifting-letters-ii](https://github.com/songgoeun/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/songgoeun/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
@@ -40,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/songgoeun/LeetCode/tree/master/2048-build-array-from-permutation) |
+## Greedy
+|  |
+| ------- |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/songgoeun/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
