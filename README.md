@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/songgoeun/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/songgoeun/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/songgoeun/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/songgoeun/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2358-number-of-ways-to-split-array](https://github.com/songgoeun/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/songgoeun/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -45,11 +46,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/songgoeun/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/songgoeun/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/songgoeun/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
 | ------- |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/songgoeun/LeetCode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/songgoeun/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
